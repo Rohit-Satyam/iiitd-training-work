@@ -10,7 +10,8 @@ The TCGA RNASeq downloaded contains
 >?|100134869
 >?|10357
 
-4. TCGA clinical data: The information about the fields present in TCGA clinical data is described in the links given [here](https://www.biostars.org/p/126631/). The data dictionary of TCGA is available [here](https://docs.gdc.cancer.gov/Data_Dictionary/viewer/).  
+4. TCGA clinical data: The information about the fields present in TCGA clinical data is described in the links given [here](https://www.biostars.org/p/126631/). The data dictionary of TCGA is available [here](https://docs.gdc.cancer.gov/Data_Dictionary/viewer/).
+5. http://zyxue.github.io/2017/06/02/understanding-TCGA-mRNA-Level3-analysis-results-files-from-firebrose.html
 
 
 | Hybridization REF | TCGA-3H-AB3K-01A-11R-A40A-07 | TCGA-3H-AB3K-01A-11R-A40A-07 | TCGA-3H-AB3K-01A-11R-A40A-07                                                                                                        | TCGA-3H-AB3L-01A-11R-A40A-07 | TCGA-3H-AB3L-01A-11R-A40A-07 | TCGA-3H-AB3L-01A-11R-A40A-07                                                                                                        |
